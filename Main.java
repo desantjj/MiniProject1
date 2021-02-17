@@ -1,4 +1,3 @@
-
 /*
 Mini Project 1
 Group 9: Joey DeSantis, Nicholas Natale, Milan Patel, Alex Helm
