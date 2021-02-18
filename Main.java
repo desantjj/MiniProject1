@@ -40,6 +40,7 @@ class Main {
         System.out.println("Guess higher!");
         System.out.println("Enter your new guess: ");
       } else if (userGuess == theRandomNum) {
+        win = true;
         System.out.println("Great, you win! It took you " + numTries + " tries");
       }
     }
